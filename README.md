@@ -1,4 +1,4 @@
-### Olá, Bem-vindo ao meu GitHub 👋
+### Olá, Boas-vindas ao meu GitHub 👋
 
 <div>
   <a href="https://github.com/luispolippo">
